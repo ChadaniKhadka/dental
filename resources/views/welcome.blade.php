@@ -88,12 +88,13 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md" style="margin-top: -350px !important;">
+                <div class="title m-b-md">
                     <div width="20%">
-                         <img src="image/new_logo.jpg" alt="" width="50px" height="70px">
+                         <img src="image/new_logo.jpg" alt="" width="175px;" height="180px;">
                     </div>
                     <div width="80%">
-                        <h5 style="color: #3b74b0;">Comfort & Care Dental Clinic</h5>
+                        <span style="color: #3b74b0; font-weight:600;font-size:45px;text-align:center;">Comfort & Care Dental Clinic</span><br>
+                        <span style="text-align:center;font-size:25px;color:black;"> This site is under construction</span>
                     </div>
                 </div>
 
