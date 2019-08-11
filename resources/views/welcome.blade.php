@@ -61,13 +61,13 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
-            #body_div{
+           /* #body_div{
                 border: 2px solid black;
                 padding: 25px;
                 background: url(image/download.jpeg);
                 background-repeat: no-repeat;
                 background-size: cover;
-            }
+            }*/
 
         </style>
     </head>
@@ -90,7 +90,7 @@
             <div class="content">
                 <div class="title m-b-md" style="margin-top: -350px !important;">
                     <div width="20%">
-                         <img src="image/logo.jpeg" alt="" width="50px" height="70px">
+                         <img src="image/new_logo.jpg" alt="" width="50px" height="70px">
                     </div>
                     <div width="80%">
                         <h5 style="color: #3b74b0;">Comfort & Care Dental Clinic</h5>
